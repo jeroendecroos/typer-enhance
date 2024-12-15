@@ -1,0 +1,11 @@
+[project]
+name = "typer-enhance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ruff>=0.8.3",
+    "textual>=1.0.0",
+    "typer>=0.15.1",
+]
